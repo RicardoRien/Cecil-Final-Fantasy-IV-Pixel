@@ -1,5 +1,5 @@
 # Cecil - Final Fantasy IV - Pixel Art
-I played this game when in was i a child, in a Game Boy Advance.
+I played this classic in a Game Boy Advance when in was i a child.
 
 Cecil (`Paladin version`)
 
